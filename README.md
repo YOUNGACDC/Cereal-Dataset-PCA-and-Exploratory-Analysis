@@ -3,6 +3,7 @@
 
 ## *Cereal-Dataset-PCA-and-Exploratory-Analysis*
 ## Data found inside CSV file    [Cereals.csv](https://github.com/user-attachments/files/18607074/Cereals.csv)
+## Python Script :
 
 
 ### This Python script performs exploratory data analysis (EDA) and principal component analysis (PCA) on a cereal dataset. The EDA includes histograms, boxplots, and a heatmap to visualize the distribution of various nutritional features and their correlations. PCA is applied both with and without normalization to reduce the dimensionality of the dataset, summarizing the variance explained by each principal component. The results help to identify the key components contributing to the variability in the data and determine the minimum number of variables needed for effective dimensionality reduction.
